@@ -1,2 +1,1 @@
-# TeamWorking
 # JavaScript Tutorial
